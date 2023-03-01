@@ -11,7 +11,7 @@ Bio data
 <form action="other_page.php" method= "post">
 <h1>Bio-Data</h1>
 Name:<br><input type ="text" name = "first_name" placeholder="First Name" required><br>
- <!-- Last Name:<br><input type ="text" name = "last_name" placeholder="Last Name" required Master_dipanakr><br> -->
+ <!-- Last Name:<br><input type ="text" name = "last_name" placeholder="Last Name" required Master_dipanakr github><br> -->
  Date of Birth:<br> <input type ="date" name="birthday" required><br>
  Email:<br><input type ="email" name = "email_address" placeholder="example@email.com" required><br>
  Gender:<input type = "radio" name = "gender" value ="m" required="required"> Male

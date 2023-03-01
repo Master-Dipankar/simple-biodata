@@ -32,7 +32,7 @@ $phone=$_POST['phone'];
 //insert query
 $sql = "INSERT INTO `candidate`(`name`, `dob`, `email`, `gender`, `religion`, `cast`, `fname`, `mname`, `language`, `course`, `saddress`, `city`, `state`, `pin`, `mphone`) VALUES ('$name','$birthday','$email_address','$gender','$religion','$caste','$F_name','$M_name','$language','$course','$street_address','$City','$State','$Pin_code','$phone')";
 
-//confirmation
+//confirmation Master-Dipankar github
 try{
     mysqli_query($con, $sql);
     echo "success";

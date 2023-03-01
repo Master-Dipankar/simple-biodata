@@ -1,7 +1,7 @@
 <?php
 // function getConnection(){
 //     return new mysqli("localhost","root","","biodata");
-// }
+// Master-Dipankar github}
 include "func.php";
 
 foreach ($result as $value) {
